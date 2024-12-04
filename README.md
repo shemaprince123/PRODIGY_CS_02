@@ -94,6 +94,8 @@ This project is open-source and free to use and modify for educational or person
 
 **Encrypted Image**:  
 ![Encrypted](https://github.com/user-attachments/assets/8b51c5e4-5009-40f4-aef0-c608fc76f9d6)
+![encrypted_try](https://github.com/user-attachments/assets/d935fb90-7762-4cad-a94c-114f8b9572c9)
+
 
 **Decrypted Image**:  
 ![Decrypted](https://github.com/user-attachments/assets/c65e3336-1593-41f0-9a7d-369d2d4cfdc4)
