@@ -1,6 +1,3 @@
-Here’s an updated and more polished version of your README for the image encryption/decryption project:
-
----
 
 # Image Encryption/Decryption Using XOR
 
